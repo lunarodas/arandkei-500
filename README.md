@@ -25,14 +25,14 @@ Serving as an independent institutional benchmark, the index tracks the primary 
 To maintain index purity, transparency, and replicability, components must strictly pass the following criteria:
 
 ### Included
-* Operating C-Corporations (Common Stock).
-* Direct primary listings on **NYSE**, **NASDAQ**, or **NYSE American (AMEX)**.
+* Operating C-Corporations (or global equivalents) with direct primary or dual listings.
+* Direct listings on **NYSE**, **NASDAQ**, or **NYSE American (AMEX)**.
 * Securities traded and settled in **USD**.
 
 ### Excluded
 * **Active S&P Index Constituents:** Any company currently included in the S&P 500, S&P 400, or S&P 600 indices.
 * **Non-Operating & Special Structures:**
-  * American Depositary Receipts (**ADRs**) and foreign cross-listings.
+  * American Depositary Receipts (**ADRs**) and depositary certificates.
   * Master Limited Partnerships (**MLPs**) and Limited Partnerships (**L.Ps**).
   * Business Development Companies (**BDCs**).
   * Special Purpose Acquisition Companies (**SPACs**) and shell corporations.
