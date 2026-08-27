@@ -8,14 +8,14 @@ The **Arandkei 500 Index** measures the consolidated performance of 500 major op
 ## 2. Universe Eligibility Criteria
 
 ### 2.1 Listing & Currency
-* **Eligible Exchanges:** Direct primary listings on the **NYSE**, **NASDAQ**, or **NYSE American (AMEX)**.
+* **Eligible Exchanges:** Direct primary or dual listings on the **NYSE**, **NASDAQ**, or **NYSE American (AMEX)**.
 * **Trading Currency:** Securities must trade and settle exclusively in USD.
 
 ### 2.2 Structural Exclusions & Index Independence
 To maintain strict eligibility as an independent corporate benchmark, the following are excluded:
-* **S&P Index Constituents:** Any equity currently maintaining active membership within official S&P equity indices is excluded.
+* **Active S&P Index Constituents:** Any equity currently maintaining active membership within official S&P equity indices.
 * **Non-Operating & Special Structures:**
-  * American Depositary Receipts (**ADRs**) and foreign depositary shares.
+  * American Depositary Receipts (**ADRs**) and depositary certificates.
   * Master Limited Partnerships (**MLPs**) and Limited Partnerships (**L.Ps**).
   * Business Development Companies (**BDCs**).
   * Special Purpose Acquisition Companies (**SPACs**) and shell corporations.
