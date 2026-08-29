@@ -1,10 +1,9 @@
-# Arandkei 500 Index - Official Constituent Dataset
-# Copyright (c) 2026 Arandkei. All rights reserved.
-# Author: Arandkei (Gerardo LunaRodas)
-# Methodology: https://github.com/tu-usuario/arandkei-500/blob/main/METHODOLOGY.md
-# License: MIT License
-# Output Weight Scheme: Equal Weight (0.200%)
-#
+# Arandkei 500 Index - Official Constituent Dataset,,,,
+# Copyright (c) 2026 Arandkei. All rights reserved.,,,,
+# Author: Arandkei (Gerardo LunaRodas),,,,
+# Methodology: https://github.com/tu-usuario/arandkei-500/blob/main/METHODOLOGY.md,,,,
+# License: MIT License,,,,
+# Output Weight Scheme: Equal Weight (0.200%),,,,
 Ticker,Name,Exchange,Sector,Weight
 AAOI,"Applied Optoelectronics, Inc.",NASDAQ,Technology,0.20%
 AAUC,Allied Gold Corporation,NYSE,Materials,0.20%
