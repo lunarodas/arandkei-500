@@ -1,4 +1,4 @@
-# Arandkei 500 Index (ARK500)
+# Arandkei 500 Index (R&K500)
 
 [![Index Type](https://img.shields.io/badge/Index%20Type-Equal%20Weight-blue)](#3-weighting--rebalancing)
 [![Universe](https://img.shields.io/badge/Universe-US%20Non--S%26P-green)](#2-eligibility--exclusions)
