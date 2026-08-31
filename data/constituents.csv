@@ -3,7 +3,7 @@
 # Author:, Arandkei, (Gerardo LunaRodas),,
 # Methodology:, https://github.com/lunarodas/arandkei-500/blob/main/METHODOLOGY.md,,,
 # License:, MIT License,,,
-# Output Weight Scheme:, Equal Weight,,, (0.200%)
+# Output Weight Scheme:, Equal Weight,,, 0.20%
 Ticker,Name,Exchange,Sector,Weight
 AAOI,"Applied Optoelectronics, Inc.",NASDAQ,Technology,0.20%
 AAUC,Allied Gold Corporation,NYSE,Materials,0.20%
