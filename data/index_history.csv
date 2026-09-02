@@ -1,7 +1,8 @@
 # Arandkei 500 Index, - Historical Performance Log,,
 # Copyright (c) 2026, Arandkei., All rights reserved.,
 # Benchmark Owner:, Arandkei,,
-# Base Date:, September 1, 2026, (Base Value: 1000.00)
+# Base Date:, September 1 - 2026, Base Value:, 1000.00
 # Data Source:, Official, Arandkei 500, Calculation Engine
 Date,Index_Level,Daily_Return,Constituents
 2026-09-01,980.468,-1.953%,500
+2026-09-02,990.98,1.071%,500
