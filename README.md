@@ -51,7 +51,7 @@ The Arandkei 500 operates under a strict **Equal-Weighted methodology**:
 The index functions as the natural tier directly below the S&P ecosystem:
 1. **Promotion (S&P Inclusions):** Following mid-month official S&P index rebalance announcements, any Arandkei 500 constituent selected to join an S&P index is flagged for automatic removal due to promotion.
 2. **Replacement Selection:** Replacement constituents are selected from the non-S&P eligible universe via the proprietary Arandkei evaluation framework.
-3. **Execution Date:** All additions, deletions (promotions), and weight resets take effect at the **close of the last business day** of the rebalance month (Q1: Mar, Q2: Jun, Q3: Sep, Q4: Dec).
+
 
 ---
 
